@@ -1,0 +1,19 @@
+{
+  "packageManager": "github",
+  "name": "Saxon-CE_1.1",
+  "repo": "firulais/Saxon-CE",
+  "files": {
+    "include": [
+      "24B63AF32BBE272D417556428C080A48.cache.html",
+      "494CD97B2F3C68D6082767842195263C.cache.html",
+      "6D08C01821381D35BD12009B44D2D65D.cache.html",
+      "78824F1387A0BC6FCB320DC5CD1831CF.cache.html",
+      "CECE12D2976993D3B12B21ED2115A689.cache.html",
+      "clear.cache.gif",
+      "F2448E75ABC881DC5494DC8CAB76B197.cache.html",
+      "normalizationData.xml",
+      "Saxonce.nocache.js",
+      "unicodeBlocks.xml"
+    ]
+  }
+}
